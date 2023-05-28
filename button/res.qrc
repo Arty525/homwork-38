@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>red.png</file>
+        <file>green.png</file>
+        <file>click.wav</file>
+    </qresource>
+</RCC>
