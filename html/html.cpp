@@ -1,11 +1,9 @@
 ﻿#include <qapplication.h>
-#include <qresource.h>
 #include <QtGui/QtGui>
 #include <QWebEngineView>
 #include <QPlainTextEdit>
 #include <QHBoxLayout>
-#include <QTabWidget>
-
+//Тестовый код, если нужно, лежит в файле HtmlCodeForTest.txt
 int main(int argc, char** argv) {
 	QApplication app(argc, argv);
 	auto* window = new QWidget;
