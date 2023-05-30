@@ -1,0 +1,7 @@
+<html>
+	<table>
+		<td style="background-color:#000;" width="200" height = "400" valign="top">
+			<div align="center"><text style="color:#f90;font-size:30;">Hello, World!</text></div>
+		</td>
+	</table>
+</html>
